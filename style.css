@@ -91,21 +91,18 @@ html,
 body {
   background-color: #000000;
 
-    font-family: "Jacquarda Bastarda 9 Charted", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  ;
+  font-family: "Jacquarda Bastarda 9 Charted", serif;
+  font-weight: 400;
+  font-style: normal;
 }
-
 #my-p5-sketch {
   position: absolute; /*se desencaja del orden */
   z-index: 0; /*organiza las capas*/
 }
 
 h1 {
-  color: #e09600;;
-
+  color: #e09600;
+  size: 100;
   font-family: "Jacquard 12", system-ui;
   font-weight: 500;
   font-style: normal;
